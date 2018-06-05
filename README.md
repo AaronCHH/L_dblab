@@ -1,1 +1,3 @@
-# L_dblab
+# dblab
+
+Place for experimenting database operation.
